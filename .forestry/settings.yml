@@ -21,7 +21,6 @@ sections:
 - type: document
   path: documents
   label: Docs
-  match: "**/*"
 - type: heading
   label: Data
 - type: directory
